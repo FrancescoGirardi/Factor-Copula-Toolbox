@@ -19,4 +19,4 @@ Features to implement:
 
 Whether you are a researcher exploring advanced dependence modeling techniques or a practitioner seeking to enhance your risk management strategies, the Factor Copulas: Estimation and Simulation repository equips you with the necessary tools to leverage factor copulas effectively. Its user-friendly design, comprehensive documentation, and extensive functionality make it a valuable resource for anyone interested in modeling complex dependencies and understanding the intricate relationships among multivariate variables.
 
-![Alt Text]([image_url](https://github.com/FrancescoGirardi/Factor-Copula-Toolbox/blob/c20bebce0cc3fc1a3e3fa939216d6c94d34e299d/User%20Interface.png))
+![plot](https://github.com/FrancescoGirardi/Factor-Copula-Toolbox/blob/c20bebce0cc3fc1a3e3fa939216d6c94d34e299d/User%20Interface.png)
